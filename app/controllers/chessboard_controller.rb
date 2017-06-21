@@ -1,5 +1,5 @@
 
+# frozen_string_literal: true
 class ChessboardController < ApplicationController
-	def chessboard
-	end
+  def chessboard; end
 end
